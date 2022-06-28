@@ -1,0 +1,4 @@
+repository "Oyster decesnt@augustsnyder@cloud"
+  path "/"
+    br "/main"
+    co "/main"
